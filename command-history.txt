@@ -1,0 +1,103 @@
+    1  sudo apt upgrade
+    2  sudo apt update
+    3  sudo apt install chromium-browser
+    4  sudo apt --fix-broken install
+    5  sudo apt install chromium-browser
+    6  chromium-browser
+    7  sudo apt install chromium-browser
+    8  chromium-browser
+    9  sudo apt install -f
+   10  chromium-browser
+   11  snap help refresh
+   12  sudo snap install chromium-browser
+   13  sudo snap install chromium
+   14  snap help refresh
+   15  sudo reboot
+   16  sudo apt update
+   17  sudo apt upgrade
+   18  sudo apt install gdebi-core wget
+   19  sudo apt upgrade
+   20  ls
+   21  gh
+   22  sudo apt update
+   23  sudo apt install gh
+   24  gh
+   25  mkdir latihan-git
+   26  ls
+   27  cd latihan-git/
+   28  chromium-browser
+   29  chromium-browser --no-sandbox
+   30  sudo apt install chromium-browser
+   31  chromium-browser
+   32  xdg-open
+   33  sudo apt install xdg-utils
+   34  chromium-browser
+   35  google-chrome
+   36  chromium-browser
+   37  ls
+   38  cd snap
+   39  chromium-browser
+   40  cd latihan-git
+   41  cd
+   42  sudo poweroff
+   43  chromium-browser
+   44  sudo apt install xdege utils
+   45  sudo apt install xdg-utils
+   46  xdg-open
+   47  chromium-browser
+   48  snap list
+   49  sudo snap refresh
+   50  chromium-browser
+   51  ls
+   52  chromium -v
+   53  browser -v
+   54  sudo apt install xdg-utils
+   55  sudo apt install xdege utils
+   56  sudo apt install xdg-utils
+   57  google-chrome
+   58  ls
+   59  cd Downloads/
+   60  ls -al
+   61  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   62  wget --version
+   63  sudo apt install wget
+   64  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   65  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   66  sudo apt-get install -f
+   67  google-chrome
+   68  sudo apt get install gh
+   69  sudo apt install gh
+   70  sudo auth login gh
+   71  sudo apt install git
+   72  gh auth status
+   73  sudo apt install gh
+   74  sudo auth login
+   75  sudo auth login gh
+   76  sudo apt install gh -y
+   77  sudo auth status gh
+   78  gh pr status
+   79  gh auth login
+   80  google-chrome
+   81  chromium-browser
+   82  google-chrome
+   83  sudo su
+   84  sudo snap install --classic code
+   85  code --version
+   86  atik123
+   87  code --version
+   88  git --version
+   89  sudo apt update
+   90  sudo apt install git
+   91  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+   92  nvm --v
+   93  nvm install v14.15.4
+   94  node -v
+   95  clear
+   96  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+   97  ls
+   98  cd uas-komdat-24/
+   99  ls
+  100  code .
+  101  npm install
+  102  npm run start
+  103  history > command-history.txt
